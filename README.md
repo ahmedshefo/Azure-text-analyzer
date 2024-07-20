@@ -39,8 +39,8 @@ go get github.com/go-resty/resty/v2
 go get github.com/joho/godotenv
 
 ```
-- Create a .env File
-In the root directory of the project, create a file named .env and write in it:
+- Create a .env File. (Important Step)
+In the root directory of the project, create a file named .env (The extension file is .env) and write in it:
 ```http
 API_KEY=your_azure_text_analytics_api_key
 ENDPOINT=https://your-resource-name.cognitiveservices.azure.com/
