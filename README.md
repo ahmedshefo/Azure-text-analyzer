@@ -50,7 +50,7 @@ ENDPOINT=https://your-resource-name.cognitiveservices.azure.com/
  To run the project, use:
 
 ```http
-go run main.go
+go run Text-analyzer.go
 
 ```
 ## Sentiment Response Format
